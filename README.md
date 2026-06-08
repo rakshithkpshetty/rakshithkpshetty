@@ -35,18 +35,43 @@
 
 ## 💻 Tech Stack
 
-![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql)
+### Languages
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python)
-![Playwright](https://img.shields.io/badge/playwright-2EAD33?style=for-the-badge&logo=playwright)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript)
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql)
 
----
+### Backend
+![Spring Boot](https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express)
+![MuleSoft](https://img.shields.io/badge/mulesoft-00A1E0?style=for-the-badge&logo=mulesoft)
+![REST API](https://img.shields.io/badge/rest_api-FF6C37?style=for-the-badge&logo=postman)
+
+### Frontend
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3)
+
+### Databases
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis)
+![Oracle](https://img.shields.io/badge/oracle_sql-F80000?style=for-the-badge&logo=oracle)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman)
+
+### Testing
+![Playwright](https://img.shields.io/badge/playwright-2EAD33?style=for-the-badge&logo=playwright)
+![JUnit](https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5)
 
 ## 📊 GitHub Stats
 

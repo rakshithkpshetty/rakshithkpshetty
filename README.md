@@ -13,15 +13,16 @@
 
 🌱 Currently Learning:
 - 🐍 Python Development
-- 📊 Data Engineering
+-🚀 Java development
+- 🚀 Playwright with Typescript
 - ⚡ Advanced DSA
 - ☁️ Cloud Technologies
 
 💡 Interests:
-- Web Development
+- Web Development(MERN STACK)
 - Automation Frameworks
 - SQL & Databases
-- Data Engineering
+- RestFul APIs
 
 ---
 

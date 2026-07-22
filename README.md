@@ -50,6 +50,7 @@
 ![Express](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express)
 ![MuleSoft](https://img.shields.io/badge/mulesoft-00A1E0?style=for-the-badge&logo=mulesoft)
 ![REST API](https://img.shields.io/badge/rest_api-FF6C37?style=for-the-badge&logo=postman)
+![Django](https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=django)
 
 ### Frontend
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react)
@@ -91,8 +92,6 @@
 📚 DSA & LeetCode
 
 🐍 Python Development
-
-📊 Data Engineering
 
 ---
 

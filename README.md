@@ -73,6 +73,7 @@
 
 ### Testing
 ![Playwright](https://img.shields.io/badge/playwright-2EAD33?style=for-the-badge&logo=playwright)
+![Selenium](https://img.shields.io/badge/selenium-2EAD33?style=for-the-badge&logo=selenium)
 ![JUnit](https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5)
 
 ## 📊 GitHub Stats

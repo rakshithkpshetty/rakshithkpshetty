@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakshith K P Shetty</h1>
-<h3 align="center">🚀 Software Engineer | 💻 Full Stack Developer | 🤖 Automation Test Engineer</h3>
+<h3 align="center">🚀 Software Development Engineer in Test |  🤖 Automation Test Engineer | 💻 Full Stack Developer |</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rakshithkpshetty&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -12,9 +12,13 @@
 🔭 Working on Full Stack Development & Automation Testing
 
 🌱 Currently Learning:
+- 🚀 Playwright with Typescript
+-  🚀 Playwright with Python
+- 🚀 Selenium with Java
+- 🐍 Selenium with Python
 - 🐍 Python Development
 -🚀 Java development
-- 🚀 Playwright with Typescript
+
 - ⚡ Advanced DSA
 - ☁️ Cloud Technologies
 
